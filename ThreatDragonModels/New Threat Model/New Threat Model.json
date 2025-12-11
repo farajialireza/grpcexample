@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Alireza Faraji",
+    "description": "just for exploring threat dragon",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Sobhan Hedayati",
+    "threatTop": 0
+  }
+}
